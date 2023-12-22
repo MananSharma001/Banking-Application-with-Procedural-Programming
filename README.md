@@ -1,2 +1,2 @@
 # Banking-Application-with-Procedural-Programming
-This procedural C++ program implements a basic banking system allowing users to check balance, deposit, withdraw, and view transaction history, all within a menu-driven interface.
+This procedural C++ program implements a basic banking system allowing users to Check Balance, Deposit, Withdraw, view Transaction History & Transaction Count.The Errors such as Negative Numbers , etc are well handled.I've tried to keep the Program as Simple as possible.Employeed Functions to perform each and every task which is an add on to the programs Modularity.
