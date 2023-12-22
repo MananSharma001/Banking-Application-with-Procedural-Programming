@@ -3,7 +3,11 @@ This C++ program offers a basic banking system with essential features such as b
 
 Features:
 Check Balance: View account balance with a simple function call.
+
 Deposit: Securely add funds with error handling for negative numbers.
+
 Withdraw: Safely deduct funds, preventing negative balances.
+
 Transaction History: Review detailed transaction history.
+
 Transaction Count: Quickly check the total number of transactions.
